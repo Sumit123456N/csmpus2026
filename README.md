@@ -145,13 +145,13 @@ Our solution is a **mobile-first platform** that digitizes and automates key col
 4. Run the app on an emulator or a physical device.
 
 ### 🔑 **Login Credentials**
-| User Type     | Email / Login | Password / OTP |
-|--------------|--------------|---------------|
-| **Faculty**  | `faculty_dummy_data.csv` in Firebase | (Fetch login IDs from file) |
-| **Student**  | `students_dummy_data.csv` in Firebase | (Change mobile numbers for OTPs) |
-| **Doctor**   | `doctor@gmail.com` | OTP sent to `9322067937` (modifiable in `login.java`) |
-| **Gym Guard** | `sggsgard@gmail.com` | `gard@123` |
-| **Admin**    | `admin@gmail.com` | OTP sent to `8261830043` |
+| User Type     | Email / Login | Password / OTP                                        |
+|--------------|--------------|-------------------------------------------------------|
+| **Faculty**  | `faculty_dummy_data.csv` in Firebase | (Fetch login IDs from file)                           |
+| **Student**  | `students_dummy_data.csv` in Firebase | (Change mobile numbers for OTPs)                      |
+| **Doctor**   | `doctor@gmail.com` | OTP sent to `7028659544` (modifiable in `login.java`) |
+| **Gym Guard** | `sggsgard@gmail.com` | `gard@123`                                            |
+| **Admin**    | `admin@gmail.com` | OTP sent to `7028659544`                              |
 
 ---
 
