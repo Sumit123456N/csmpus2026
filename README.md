@@ -111,6 +111,10 @@ Our solution is a **mobile-first platform** that digitizes and automates key col
 | **Karan Bankar** | Android Developer (Kotlin, Java, Firebase) |
 | **Shravanni Aute** | Machine Learning Engineer (Vulgar Image Detection) |
 | **Sukhada Joshi** | Idea Showcaser, Presenter |
+Sumit Jadhav taking forward this project towards success
+Sachin Hiwale 
+Rameshwar Ingale
+Saurav Sherkar
 
 ---
 
