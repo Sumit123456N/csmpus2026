@@ -31,13 +31,13 @@
             <ImageView
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                android:src="@drawable/app_logo" />
+                android:src="@drawable/applogo" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="10dp"
-                android:text="SGGSIE&amp;T's Guardian of Health – Committed to Your Care Every Step of the Way!"
+                android:text="G P AMBAD's Guardian of Health – Committed to Your Care Every Step of the Way!"
                 android:textSize="14sp"
                 android:textColor="#000" />
         </LinearLayout>

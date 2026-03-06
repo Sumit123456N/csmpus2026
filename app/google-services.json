@@ -1,95 +1,26 @@
 {
   "project_info": {
-    "project_number": "333822226193",
-    "firebase_url": "https://shetkari-mitra-7721-default-rtdb.firebaseio.com",
-    "project_id": "shetkari-mitra-7721",
-    "storage_bucket": "shetkari-mitra-7721.appspot.com"
+    "project_number": "956318872297",
+    "project_id": "sumitauthentication-5eb7f",
+    "storage_bucket": "sumitauthentication-5eb7f.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:333822226193:android:4a5958126eb344da4aa6b0",
-        "android_client_info": {
-          "package_name": "com.chaitany.carbonview"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "333822226193-1ohsipnpvr5c3p367oq9idlhbe6nqnqa.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAcEPwRGYV_4HBqNdDzy__pz5vM5UNDFQg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "333822226193-1ohsipnpvr5c3p367oq9idlhbe6nqnqa.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:333822226193:android:ae16548459a5180d4aa6b0",
-        "android_client_info": {
-          "package_name": "com.example.Shetkari_Mitra"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "333822226193-1ohsipnpvr5c3p367oq9idlhbe6nqnqa.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAcEPwRGYV_4HBqNdDzy__pz5vM5UNDFQg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "333822226193-1ohsipnpvr5c3p367oq9idlhbe6nqnqa.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:333822226193:android:39b4a6967088a5e74aa6b0",
+        "mobilesdk_app_id": "1:956318872297:android:4d878217aa0b76e917f678",
         "android_client_info": {
           "package_name": "com.example.sggsiet"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "333822226193-1ohsipnpvr5c3p367oq9idlhbe6nqnqa.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAcEPwRGYV_4HBqNdDzy__pz5vM5UNDFQg"
+          "current_key": "AIzaSyBgfwHKZvD84HfJiuTMnZd-S8_zQOwsMqI"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "333822226193-1ohsipnpvr5c3p367oq9idlhbe6nqnqa.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

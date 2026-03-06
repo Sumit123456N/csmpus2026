@@ -14,7 +14,7 @@
         android:id="@+id/imgCollegeLogo"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@drawable/app_logo"
+        android:src="@drawable/applogo"
         android:layout_marginBottom="16dp"
         android:contentDescription="College Logo"/>
 
@@ -22,7 +22,7 @@
     <com.google.android.material.textview.MaterialTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SGGSIE&amp;T"
+        android:text="GOVT POLY AMBAD"
         android:textSize="22sp"
         android:textStyle="bold"
         android:textColor="@color/black"
@@ -140,10 +140,10 @@
         android:layout_marginTop="16dp">
 
         <ImageView
-            android:layout_width="18dp"
-            android:layout_height="18dp"
-            android:src="@drawable/app_logo"
-            android:contentDescription="Info"/>
+            android:layout_width="20dp"
+            android:layout_height="15dp"
+            android:contentDescription="Info"
+            android:src="@drawable/applogo" />
 
         <com.google.android.material.textview.MaterialTextView
             android:layout_width="wrap_content"
